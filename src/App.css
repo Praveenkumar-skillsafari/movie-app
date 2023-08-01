@@ -1,0 +1,10 @@
+:root {
+  --colBg: rgba(0, 0, 0, 0.872);
+  --col1: #ff2d2d;
+  --col2: #ffffff;
+}
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
